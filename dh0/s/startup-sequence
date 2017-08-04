@@ -1,0 +1,7 @@
+assign env: ram:
+assign devs: dh0:devs
+assign keymaps: devs:keymaps
+setpatch >NIL:
+setkeyboard s
+noborder
+climax -t s:menu.txt
