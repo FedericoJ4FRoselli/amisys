@@ -1,5 +1,5 @@
 # amisys
-A BBS/packdisk menu-style replacement for Workbench. Use a real Amiga 1200 with a compact flash IDE adapter for optimal awesome.
+A BBS/packdisk menu-style replacement for Workbench with everything you need to be a productive member of the demoscene. Use a real Amiga 1200 with a compact flash IDE adapter for optimal awesome.
 
 ![amisys](https://github.com/cliffordcarnmo/amiga-hd-menu/blob/master/screenshot.jpg)
 
