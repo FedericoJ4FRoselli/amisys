@@ -6,7 +6,7 @@ A BBS/packdisk menu-style replacement for Workbench. Use a real Amiga 1200 with 
 **How to use**
 
 There are several ways to use amisys, here are a few:
-* Write **amisys.img** to a compact flash card and use in your Amiga using a IDE adapter
+* Write **amisys.img** to a compact flash card and use it in your Amiga using a IDE adapter
 * Copy the files in the **dh0** directory straight to your Amiga harddrive
 * Use the **dh0** directory as harddrive path in your emulator of choice
 
