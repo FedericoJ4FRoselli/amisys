@@ -10,7 +10,7 @@ There are several ways to use amisys, here are a few:
 * Copy the files in the **dh0** directory straight to your Amiga harddrive
 * Use the **dh0** directory as harddrive path in your emulator of choice
 
-Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. **Please do consider using amigsys this way**.
+Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. **Please do consider using amisys this way!**.
 
 **Included software**
 
