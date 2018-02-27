@@ -1,16 +1,16 @@
-# AMiSYS
-A BBS/packdisk menu-style replacement for Workbench. Use kickstart 3.1 for optimal awesome.
+# amisys
+A BBS/packdisk menu-style replacement for Workbench. Use a real Amiga 1200 with a compact flash IDE adapter for optimal awesome.
 
 ![amisys](https://github.com/cliffordcarnmo/amiga-hd-menu/blob/master/screenshot.jpg)
 
 **How to use**
 
 There are several ways to use amisys, here are a few:
-* Write amisys.img to a compact flash card and use in your Amiga using a IDE adapter
-* Copy the files in the dh0 directory straight to your Amiga harddrive
-* Use the dh0 directory as harddrive path in your emulator of choice
+* Write **amisys.img** to a compact flash card and use in your Amiga using a IDE adapter
+* Copy the files in the **dh0** directory straight to your Amiga harddrive
+* Use the **dh0** directory as harddrive path in your emulator of choice
 
-Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. Please do consider using amigsys this way.
+Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. **Please do consider using amigsys this way**.
 
 **Included software**
 
@@ -24,17 +24,17 @@ Please note that by writing amisys.img to a compact flash card you get a properl
 * DeliTracker 2.34
 * Grabkick 1.21
 * Killhappy
-* PicCon 2.5o
-* PowerPacker 4.oa
+* PicCon 2.50
+* PowerPacker 4.0a
 * Protracker 2.3e
 * Protracker 3.15
 * Protracker 3.62
 * The Player 6.1a
 * SnoopDos 3.8
-* StoneCracker 4.1o.3
+* StoneCracker 4.10.3
 * SysInfo 3.24
 * Titanics Cruncher 1.2
-* TransADF 4.o.46
+* TransADF 4.0.46
 * Transdisk
 * WhichAmiga 1.33
 * X-Copy Professional
