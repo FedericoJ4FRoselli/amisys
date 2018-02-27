@@ -3,29 +3,38 @@ A BBS/packdisk menu-style replacement for Workbench. Use kickstart 3.1 for optim
 
 ![amisys](https://github.com/cliffordcarnmo/amiga-hd-menu/blob/master/screenshot.jpg)
 
+**How to use**
+
+There are several ways to use amisys, here are a few:
+* Write amisys.img to a compact flash card and use in your Amiga using a IDE adapter
+* Copy the files in the dh0 directory straight to your Amiga harddrive
+* Use the dh0 directory as harddrive path in your emulator of choice
+
+Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. Please do consider using amigsys this way.
+
 **Included software**
 
-* AhX 2.3d-SP3
-* ASM-ONE 1.48
-* bOOtX 4.42
-* CYGNUS EditOR 4.2
-* diSk MAShER SYStEM 1.11
-* diRECtORY OPUS 4.12CU
-* dElUXE PAiNt 4.1
-* dElitRACkER 2.34
-* GRAbkiCk 1.21
-* killhAPPY
-* PiCCON 2.5o
-* POWERPACkER 4.oA
-* PROtRACkER 2.3E
-* PROtRACkER 3.15
-* PROtRACkER 3.62
-* thE PlAYER 6.1A
-* SNOOPdOS 3.8
-* StONECRACkER 4.1o.3
-* SYSiNfO 3.24
-* titANiCS CRUNChER 1.2
-* tRANSAdf 4.o.46
-* tRANSdiSk
-* WhiChAMiGA 1.33
-* X-COPY PROfESSiONAl
+* AHX 2.3d-sp3
+* ASM-One 1.48
+* BootX 4.42
+* Cygnus Editor 4.2
+* Disk Masher System 1.11
+* Directory Opus 4.12cu
+* Deluxe Paint 4.1
+* DeliTracker 2.34
+* Grabkick 1.21
+* Killhappy
+* PicCon 2.5o
+* PowerPacker 4.oa
+* Protracker 2.3e
+* Protracker 3.15
+* Protracker 3.62
+* The Player 6.1a
+* SnoopDos 3.8
+* StoneCracker 4.1o.3
+* SysInfo 3.24
+* Titanics Cruncher 1.2
+* TransADF 4.o.46
+* Transdisk
+* WhichAmiga 1.33
+* X-Copy Professional
