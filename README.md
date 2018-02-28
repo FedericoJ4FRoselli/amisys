@@ -3,7 +3,7 @@ A BBS/packdisk menu-style replacement for Workbench with everything you need to 
 
 ![amisys](https://github.com/cliffordcarnmo/amiga-hd-menu/blob/master/screenshot.jpg)
 
-**How to use**
+**Usage**
 
 There are several ways to use amisys, here are a few:
 * Write **amisys.img** to a compact flash or SD-card with dd, win32diskimager or similar and install it in your Amiga using an internal IDE adapter
