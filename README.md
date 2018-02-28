@@ -6,11 +6,11 @@ A BBS/packdisk menu-style replacement for Workbench with everything you need to 
 **How to use**
 
 There are several ways to use amisys, here are a few:
-* Write **amisys.img** to a compact flash card and use it in your Amiga using a IDE adapter
-* Copy the files in the **dh0** directory straight to your Amiga harddrive
+* Write **amisys.img** to a compact flash card with dd, win32diskimager or similar and install it in your Amiga using a IDE adapter
+* Copy the files in the **dh0** directory straight to your existing Amiga harddrive
 * Use the **dh0** directory as harddrive path in your emulator of choice
 
-Please note that by writing amisys.img to a compact flash card you get a properly configured system with two partitions based on the PFS filesystem. **Please do consider using amisys this way!**.
+Please note that by writing **amisys.img** to a compact flash card you get a properly configured system with two partitions (system: and data:) based on the PFS filesystem for superior stability and performance compared to FFS. **Please consider using amisys this way!**
 
 **Included software**
 
