@@ -43,3 +43,6 @@ Please note that by writing **amisys.img** to a compact flash or SD-card you get
 **How to transfer files using an external PCMCIA adapter**
 
 Amisys are configured to be able to mount a FAT32-formatted compact flash, SD-card or similar by using an external adapter located in the PCMCIA expansion port. Just insert your card in the adapter and run `mount cf0:`. The stuff behind the scenes to make this work is l/fat95, devs/compactflash.device and devs/dosdrivers/cf0. This is no rocket science but it makes it **very easy** to transfer files to and from your real Amiga using Windows, macOS or GNU/Linux. Yay.
+
+**Troubleshooting**
+If you are cloning this repo on Windows and plan to use the dh0 folder you need to set `git config --global core.autocrlf false` to disable automatic transformation of line endings. If you clone this repo using CRLF, you will not be able to use the dh0 folder. If you need to use CRLF under Windows, I suggest you download the repo archive from Github instead.
