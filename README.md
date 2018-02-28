@@ -46,4 +46,4 @@ Amisys are configured to be able to mount a FAT32-formatted compact flash, SD-ca
 
 **Troubleshooting**
 
-If you are cloning this repo on Windows and plan to use the dh0 folder you need to set `git config --global core.autocrlf false` to disable automatic transformation of line endings. If you clone this repo using CRLF, you will not be able to use the dh0 folder. If you need to use CRLF under Windows, I suggest you download the repo archive from Github instead.
+If you are cloning this repo on Windows and plan to use the dh0 folder you need to set `git config --global core.autocrlf false` to disable automatic transformation of line endings. If you clone this repo using CRLF, you will not be able to use the dh0 folder. If you need to use CRLF under Windows, I suggest you [download the master archive from Github instead](https://github.com/cliffordcarnmo/amisys/archive/master.zip).
