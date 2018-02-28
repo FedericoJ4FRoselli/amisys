@@ -8,10 +8,10 @@
 | [[33mAhX[0m] ................. AhX 2.3d-SP3 | [[33mP23[0m] ............... PROtRACkER 2.3E |
 : [[33mASM[0m] ................. ASM-ONE 1.48 | [[33mP31[0m] ............... PROtRACkER 3.15 |
 . [[33mbtX[0m] ................... bOOtX 4.42 : [[33mP36[0m] ............... PROtRACkER 3.62 :
-. [[33mCEd[0m] ............ CYGNUS EditOR 4.2 . [[33mP61[0m] ............... thE PlAYER 6.1A .
-: [[33mdMS[0m] ...... diSk MAShER SYStEM 1.11 : [[33mSNP[0m] .................. SNOOPdOS 3.8 :
-| [[33mdOP[0m] ........ diRECtORY OPUS 4.12CU . [[33mStC[0m] ........... StONECRACkER 4.1o.3 :
-| [[33mdP4[0m] ............. dElUXE PAiNt 4.1 : [[33mSYS[0m] .................. SYSiNfO 3.24 |
+. [[33mCEd[0m] ............ CYGNUS EditOR 4.2 . [[33mSNP[0m] .................. SNOOPdOS 3.8 .
+: [[33mdMS[0m] ...... diSk MAShER SYStEM 1.11 : [[33mStC[0m] ........... StONECRACkER 4.1o.3 :
+| [[33mdOP[0m] ........ diRECtORY OPUS 4.12CU . [[33mSYS[0m] .................. SYSiNfO 3.24 :
+| [[33mdP4[0m] ............. dElUXE PAiNt 4.1 : [[33mP61[0m] ............... thE PlAYER 6.1A |
 | [[33mdt2[0m] ............. dElitRACkER 2.34 : [[33mtCR[0m] ......... titANiCS CRUNChER 1.2 .
 | [[33mGkC[0m] ................ GRAbkiCk 1.21 : [[33mtRA[0m] ............... tRANSAdf 4.o.46 .
 : [[33mkhP[0m] .................... killhAPPY : [[33mtRd[0m] ..................... tRANSdiSk .
