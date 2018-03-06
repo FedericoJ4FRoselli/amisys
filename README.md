@@ -30,10 +30,10 @@ Please note that by writing **amisys.img** to a compact flash or SD-card you get
 * Protracker 2.3e
 * Protracker 3.15
 * Protracker 3.62
-* The Player 6.1a
 * SnoopDos 3.8
 * StoneCracker 4.10.3
 * SysInfo 3.24
+* The Player 6.1a
 * Titanics Cruncher 1.2
 * TransADF 4.0.46
 * Transdisk
