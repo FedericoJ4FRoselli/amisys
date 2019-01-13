@@ -6,12 +6,10 @@ A BBS/packdisk menu-style replacement for Workbench with everything you need to 
 **Usage**
 
 There are several ways to use amisys, here are a few:
-* Write **amisys.img** to a compact flash or SD-card with dd, win32diskimager or similar and install it in your Amiga using an internal IDE adapter
-* Write **amisys.img** to a compact flash or SD-card with dd, win32diskimager or similar and use it in a external USB-adapter as harddrive in your Amiga emulator
-* Copy the files in the **dh0** directory straight to your existing Amiga harddrive
-* Use the **dh0** directory as harddrive path in your Amiga emulator
+* Write [**amisys.img**](https://www.carnmo.com/amisys.img.gz) to a compact flash or SD-card with dd, win32diskimager or similar and install it in your real Amiga using an internal IDE adapter or use it in a external USB-IDE-adapter as harddrive in your Amiga emulator
+* Clone the files in the **dh0** directory straight to your existing real Amiga harddrive or use it as harddrive path in your Amiga emulator
 
-Please note that by writing **amisys.img** to a compact flash or SD-card you get a properly configured system with two partitions (system: and data:) based on the PFS filesystem for superior stability and performance compared to FFS. **Please consider using amisys this way!**
+Please note that by writing [**amisys.img**](https://www.carnmo.com/amisys.img.gz) to a compact flash or SD-card you get a properly configured system with two partitions (system: and data:) based on the PFS filesystem for superior stability and performance compared to FFS. **Please consider using amisys this way!**
 
 **Included software**
 
@@ -39,6 +37,7 @@ Please note that by writing **amisys.img** to a compact flash or SD-card you get
 * Transdisk
 * WhichAmiga 1.33
 * X-Copy Professional
+* ...if you are missing your fav tool, submit a pull request and I'll include it
 
 **How to transfer files using an external PCMCIA adapter**
 
